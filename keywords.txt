@@ -5,23 +5,23 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-RGBColour       KEYWORD1        RGBColour
-RGBLed          KEYWORD1        RGBLed
+RGBColour	KEYWORD1	RGBColour
+RGBLed	KEYWORD1	RGBLed
 
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-setColour       KEYWORD2
-transition      KEYWORD2
+setColour	KEYWORD2
+transition	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
-RED             LITERAL1
-GREEN           LITERAL1
-BLUE            LITERAL1
-YELLOW          LITERAL1
-WHITE           LITERAL1
-PURPLE          LITERAL1
-OFF             LITERAL1
+RED	LITERAL1
+GREEN	LITERAL1
+BLUE	LITERAL1
+YELLOW	LITERAL1
+WHITE	LITERAL1
+PURPLE	LITERAL1
+OFF	LITERAL1
